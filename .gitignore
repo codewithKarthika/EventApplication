@@ -1,0 +1,7 @@
+backend/event_management.db
+backend/target/
+frontend/node_modules/
+frontend/dist/
+.idea/
+.vscode/
+*.iml
